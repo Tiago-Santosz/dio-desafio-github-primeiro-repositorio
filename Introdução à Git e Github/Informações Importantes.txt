@@ -1,0 +1,36 @@
+                   Git e Github
+
+Git: Criado pelo Linus Torvolds, esta por trás do linux.
+
+- É um software de versionamento de codigo que ajuda a monitorar e criar diferentes versões do codigo.
+
+* Vantagens de Uso do Git/Github.
+1 - Controle de versão.
+2 - Armazenamento em nuvem.
+3 - Trabalho em equipe.
+4 - Melhorar seu codigo.
+5 - Reconhecimento
+
+Navegação realizada através do command line interface e intalção.
+
+- Comandos basícos para um bom desenpenho no terminal:
+
+Windows   Linux/Unix
+ Dir         Ls
+* Comando para listagem de diretorios contidos no sistema
+-----------------------------------------------------------
+ cd /        cd /
+ 
+* Comando que pwermite navegar entre as pastas e é igual em todos sistemas operacionais.
+-----------------------------------------------------------
+ cd ..       cd ..
+
+* Comando para retornar um nivel de navegação nos diretorios.
+-----------------------------------------------------------
+ cls         clear
+
+* Comando para limpar o prompt de digitação.
+
+ATALHO RÁPIDO: cd + iniciais do diretorio -> tab.
+
+to be continued...
